@@ -13,7 +13,7 @@ module.exports = {
     hardhat: {},
     mumbai: {
       url: "https://polygon-mumbai.g.alchemy.com/v2/rPXw_VY8HMt70xgaFgvD3mlmtaRFRdc6",
-      accounts: [`0xeb548cd9aabc79392d5b01ff8b6d74168cfe99a8e370c03eb0aa466f87bb77cb`],
+      accounts: [`PRIVATE_KEY `],
     },
   },
 };
